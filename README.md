@@ -1,9 +1,7 @@
 # Muhammad Ali Khan 👋
 
 ## About Me 🌟
-- I'm an undergraduate student at GIKI 🎓
-- Passionate about **Web Development** and **Game Development** 🌐🎮
-- Always excited to learn new technologies and build cool projects! 🚀
+Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, with a passion for **Web Development** 🌐 and **Game Development** 🎮. I love learning new technologies, building cool projects, and collaborating with others. Always looking for creative ways to solve problems!
 
 ## Technologies I Use 💻
 
@@ -20,6 +18,37 @@
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+---
+
+## 📚 Current Work & Learning
+
+- 🔭 **Currently working on**: Building full-stack web applications with **NestJS**, **React**, and **PostgreSQL** 🚀.
+- 🌱 **Currently learning**: Exploring **game development** with **Unity** and **Godot** and improving my skills in **C++** and **C#** for game engines 🎮.
+  
+---
+
+## 🤝 Let's Collaborate!
+
+- 👯 **Looking to collaborate on**: Web development projects, game development, and open-source contributions 💻.
+- 🤔 **Looking for help with**: Game physics, multiplayer game design, or full-stack integration tips.
+- 💬 **Ask me about**: Web development, game development, or even tech trends 🌍. I'm always happy to chat!
+  
+---
+
+## 📬 How to Reach Me
+
+- 📫 **Email**: [muhammad.ali.khan@example.com](mailto:muhammad.ali.khan@example.com) (Replace with your actual email)
+- 🌐 **LinkedIn**: [linkedin.com/in/muhammad-alikhan](https://www.linkedin.com/in/muhammad-alikhan) (Replace with your LinkedIn)
+  
+---
+
+## 🧑‍💻 Fun Facts
+
+- ⚡ **Fun fact**: I'm an avid gamer and love exploring new gaming worlds, both in coding and playing! 🎮
+- 😄 **Pronouns**: He/Him 👦
+  
+---
+
 ## Social Links 📲
 
 - [Instagram](https://www.instagram.com/yourusername) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
@@ -27,6 +56,12 @@
 - [Facebook](https://facebook.com/yourusername) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
 - [Gmail](mailto:your-email@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
+---
+
 ## Let's Connect! 🤝
-- Always happy to collaborate and discuss new ideas 💬
-- Reach out to me if you’re interested in web development, game development, or just tech in general! 🌱
+- Open to collaborations and discussions on exciting projects 🌱. 
+- Feel free to reach out if you want to talk about **tech**, **gaming**, or **development**!
+
+---
+
+**Muhammad Ali Khan** | Building the future, one line of code at a time! 👨‍💻✨
