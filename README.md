@@ -38,8 +38,8 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 
 ## 📬 How to Reach Me
 
-- 📫 **Email**: [muhammad.ali.khan@example.com](mailto:muhammad.ali.khan@example.com) (Replace with your actual email)
-- 🌐 **LinkedIn**: [linkedin.com/in/muhammad-alikhan](https://www.linkedin.com/in/muhammad-alikhan) (Replace with your LinkedIn)
+- 📫 **Email**: [muhammad.ali.khan@example.com](mailto:muhammadalikhan0003@gmail.com) (Replace with your actual email)
+- 🌐 **LinkedIn**: [linkedin.com/in/muhammad-alikhan](www.linkedin.com/in/muhammad-ali-khan-a238b9254) (Replace with your LinkedIn)
   
 ---
 
@@ -52,10 +52,9 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 
 ## Social Links 📲
 
-- [Instagram](https://www.instagram.com/yourusername) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-- [X](https://twitter.com/yourusername) ![X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
-- [Facebook](https://facebook.com/yourusername) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
-- [Gmail](mailto:your-email@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
+- [Instagram](https://www.instagram.com/muhammad_ali_khan_009/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+- [Threads](https://www.threads.net/@muhammad_ali_khan_009) ![Threads](https://img.shields.io/badge/Threads-262626?style=flat-square&logo=threads&logoColor=white)
+- [Facebook](https://www.facebook.com/profile.php?id=100094497068000) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
 
 ---
 
