@@ -38,8 +38,8 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 
 ## 📬 How to Reach Me
 
-- 📫 **Email**: [muhammad.ali.khan@example.com](mailto:muhammadalikhan0003@gmail.com) (Replace with your actual email)
-- 🌐 **LinkedIn**: [linkedin.com/in/muhammad-alikhan](www.linkedin.com/in/muhammad-ali-khan-a238b9254) (Replace with your LinkedIn)
+- 📫 **Email**: [muhammad.ali.khan@example.com](mailto:muhammadalikhan0003@gmail.com)
+- 🌐 **LinkedIn**: [linkedin.com/in/muhammad-alikhan](www.linkedin.com/in/muhammad-ali-khan-a238b9254)
   
 ---
 
