@@ -14,6 +14,7 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 - ![Godot](https://img.shields.io/badge/Godot-358BFF?style=flat-square&logo=godot-engine&logoColor=white)
+- ![GDScript](https://img.shields.io/badge/GDScript-355D4B?style=flat-square&logo=godot&logoColor=white)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
