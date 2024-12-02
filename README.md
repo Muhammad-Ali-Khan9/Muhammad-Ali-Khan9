@@ -1,5 +1,23 @@
 # Muhammad Ali Khan 👋
 
+# Welcome to My GitHub Profile! 🎉
+
+Here are some fun animated Octocat sprites! 👾🐙
+
+### 1. Classic Octocat
+
+![Classic Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### 2. Octocat Dancing
+
+![Octocat Dancing](https://octodex.github.com/images/dancing_octocat.gif)
+
+### 3. Octocat with a Guitar
+
+![Octocat with Guitar](https://octodex.github.com/images/guitar_octocat.gif)
+
+Feel free to explore my repositories and follow my work! 🚀
+
 ## About Me 🌟
 Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, with a passion for **Web Development** 🌐 and **Game Development** 🎮. I love learning new technologies, building cool projects, and collaborating with others. Always looking for creative ways to solve problems!
 
