@@ -10,11 +10,11 @@ Here are some fun animated Octocat sprites! 👾🐙
 
 ### 2. Octocat Dancing
 
-![Dancing Octocat](https://octodex.github.com/images/dancing_octocat.gif)
+![Dancing Octocat](https://github.com/github/octodex/raw/master/images/dancing_octocat.gif)
 
 ### 3. Octocat with a Guitar
 
-![Octocat with Guitar](https://octodex.github.com/images/guitar_octocat.gif)
+![Guitar Octocat](https://github.com/github/octodex/raw/master/images/guitar_octocat.gif)
 
 Feel free to explore my repositories and follow my work! 🚀
 
