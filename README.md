@@ -1,6 +1,6 @@
 # Muhammad Ali Khan 👋
 
-# Welcome to My GitHub Profile! 🎉
+### Welcome to My GitHub Profile! 🎉
 
 ![Classic Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
