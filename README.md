@@ -2,18 +2,7 @@
 
 # Welcome to My GitHub Profile! 🎉
 
-Here are some fun animated Octocat sprites! 👾🐙
-
-### 1. Classic Octocat
-
 ![Classic Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### 2. Octocat Dancing
-![Sharkocat](https://octodex.github.com/images/sharkocat.gif)
-
-### 3. Octocat with a Laptop
-![Octocat with Laptop](https://github.com/github/octodex/raw/master/images/octocat_with_laptop.png)
-
 
 Feel free to explore my repositories and follow my work! 🚀
 
