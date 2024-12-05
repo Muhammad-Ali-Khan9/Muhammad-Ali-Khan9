@@ -36,9 +36,6 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
   <a href="https://unity.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="100" alt="Unity Logo" />
   </a>
-  <a href="https://godotengine.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="100" alt="Godot Logo" />
-  </a>
   <a href="https://angular.io/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="100" alt="Angular Logo" />
   </a>
