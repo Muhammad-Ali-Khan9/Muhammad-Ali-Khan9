@@ -11,20 +11,47 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 
 ## Technologies I Use 💻
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=black) 
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-- ![Godot](https://img.shields.io/badge/Godot-358BFF?style=flat-square&logo=godot-engine&logoColor=white)
-- ![GDScript](https://img.shields.io/badge/GDScript-355D4B?style=flat-square&logo=godot&logoColor=white)
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" alt="JavaScript Logo" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100" alt="TypeScript Logo" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="100" alt="C++ Logo" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="100" alt="C# Logo" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" alt="Python Logo" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://nestjs.com/img/logo-small.svg" width="100" alt="NestJS Logo" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="100" alt="React Logo" />
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" width="100" alt="Unity Logo" />
+  </a>
+  <a href="https://godotengine.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" width="100" alt="Godot Logo" />
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="100" alt="Angular Logo" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="100" alt="PostgreSQL Logo" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="100" alt="MongoDB Logo" />
+  </a>
+  <a href="https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1024px-Godot_icon.svg.png" width="100" alt="GDScript Logo" />
+  </a>
+</p>
 ---
 
 ## 📚 Current Work & Learning
