@@ -29,6 +29,13 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
 ---
 
+### Web Services
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+- ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)  
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
 ## 📚 Current Work & Learning
 
 - 🔭 **Currently working on**: Building full-stack web applications with **NestJS**, **React**, and **PostgreSQL** 🚀.
