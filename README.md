@@ -75,8 +75,10 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 
 ## 📚 Current Work & Learning
 
-- 🔭 **Currently working on**: Building full-stack web applications with **NestJS**, **React**, and **PostgreSQL** 🚀.
-- 🌱 **Currently learning**: Exploring **game development** with **Unity** and **Godot** and improving my skills in **C++** and **C#** for game engines 🎮.
+- 🔭 **Currently working on**:  
+  - **Backend Development**: Building microservices and APIs with **Go (Golang)** and **PostgreSQL**.  
+  - **Full-Stack Web Applications**: Developing with **NestJS**, **React**, and **PostgreSQL** 🚀.  
+  - **DevOps**: Using **GitHub Actions**, **DigitalOcean**, **Kubernetes**, and **Terraform** for CI/CD, cloud deployments, and infrastructure automation.
   
 ---
 
