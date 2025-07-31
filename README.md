@@ -21,12 +21,16 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 - ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)  
 - ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)  
 - ![Godot](https://img.shields.io/badge/Godot-358BFF?style=flat-square&logo=godot-engine&logoColor=white)  
-- ![GDScript](https://img.shields.io/badge/GDScript-355D4B?style=flat-square&logo=godot&logoColor=white)  
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+- ![GDScript](https://img.shields.io/badge/GDScript-355D4B?style=flat-square&logo=godot&logoColor=white)    
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)  
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)  
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
+- ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)  
+- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)  
+- ![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)
+
 ---
 
 ### Web Services i use
