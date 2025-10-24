@@ -16,7 +16,8 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
 - ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
 
 ---
 
@@ -26,7 +27,6 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 - ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)  
 - ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)  
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
 
 ---
 
