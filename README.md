@@ -10,10 +10,6 @@ Feel free to explore my repositories and follow my work! 🚀
 Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, with a passion for **Web Development** 🌐 and **Game Development** 🎮. I love learning new technologies, building cool projects, and collaborating with others. Always looking for creative ways to solve problems!
 
 ## My GitHub Stats 📈
-![GitHub Commits Chart](https://github-contributions-api.jgrn.io/v2/contributions-bar/Muhammad-Ali-Khan9)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Khan9&layout=compact)
-<br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Ali-Khan9&theme=dark&hide_border=true&date_format=%5BY%5D%20M%20D)
 
 ## 🏅 Achievements & Badges
