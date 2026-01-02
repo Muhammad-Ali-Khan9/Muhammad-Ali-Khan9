@@ -17,8 +17,10 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Ali-Khan9&theme=dark&hide_border=true&date_format=%5BY%5D%20M%20D)
 
 ## 🏅 Achievements & Badges
-- ![Holopin Badge](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)
-- ![Hacktoberfest 2025 – Astronaut](https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp)
+<p align="left">
+  <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="60" alt="Holopin Badge" />
+  <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" width="60" alt="Hacktoberfest 2025 Astronaut" />
+</p>
 
 ## Technologies I Use 💻
 
