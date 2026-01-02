@@ -9,6 +9,17 @@ Feel free to explore my repositories and follow my work! 🚀
 ## About Me 🌟
 Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, with a passion for **Web Development** 🌐 and **Game Development** 🎮. I love learning new technologies, building cool projects, and collaborating with others. Always looking for creative ways to solve problems!
 
+## My GitHub Stats 📈
+![GitHub Commits Chart](https://github-contributions-api.jgrn.io/v2/contributions-bar/Muhammad-Ali-Khan9)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Khan9&layout=compact)
+<br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Ali-Khan9&theme=dark&hide_border=true&date_format=%5BY%5D%20M%20D)
+
+## 🏅 Achievements & Badges
+- ![Holopin Badge](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)
+- ![Hacktoberfest 2025 – Astronaut](https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp)
+
 ## Technologies I Use 💻
 
 ## 💻 Coding Languages
@@ -115,15 +126,6 @@ Hello! I'm **Muhammad Ali Khan**, an undergraduate student at **GIKI** 🎓, wit
 - [Instagram](https://www.instagram.com/muhammad_ali_khan_009/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
 - [Threads](https://www.threads.net/@muhammad_ali_khan_009) ![Threads](https://img.shields.io/badge/Threads-262626?style=flat-square&logo=threads&logoColor=white)
 - [Facebook](https://www.facebook.com/profile.php?id=100094497068000) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
-
----
-
-## My GitHub Stats 📈
-![GitHub Commits Chart](https://github-contributions-api.jgrn.io/v2/contributions-bar/Muhammad-Ali-Khan9)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Khan9&layout=compact)
-<br>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Ali-Khan9&theme=dark&hide_border=true&date_format=%5BY%5D%20M%20D)
 
 ---
 
